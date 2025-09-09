@@ -7,7 +7,7 @@ Deployed a **scalable portfolio website** on AWS using:
 - **Application Load Balancer (ALB)** for traffic distribution  
 - **Auto Scaling Group (ASG)** for elasticity and fault tolerance  
 - **VPC networking** with subnets, security groups, and routing  
-
+ 
 This project demonstrates **high availability, scalability, and fault tolerance** in a real-world AWS architecture.  
 
 ---
